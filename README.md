@@ -10,7 +10,8 @@
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)<br/>
-![jQuery](https://img.shields.io/badge/jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white)<br/>
+![jQuery](https://img.shields.io/badge/jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=#61DBFB)<br/>
 ![Vue](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)<br/>
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white)
