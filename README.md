@@ -29,5 +29,5 @@
 <h3 align="left">Contact me at</h3>
 <a href="mailto:xnotking1@gmail.com?subject=Hello, xnotkingdev_">
 
-![GMAIL](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)
+xnotking1@gmail.com
 </a>
