@@ -18,7 +18,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=wordpress&logoColor=white)<br/>
 ![SQLite](https://img.shields.io/badge/sqlite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
 <hr/>
-![Used languagues](https://github-readme-stats.vercel.app/api/top-langs?username=xnotking&show_icons=true&bg_color=282d3b&text_color=fff&title_color=fff&border_color=none&locale=en&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xnotking&show_icons=true&bg_color=282d3b&text_color=fff&title_color=fff&border_color=none&locale=en&layout=compact" loading="lazy" alt="xnotkingdev_">
 <hr/>
 <h3 align="left">You can follow me in</h3>
 <p align="left">
