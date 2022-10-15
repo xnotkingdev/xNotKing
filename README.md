@@ -16,7 +16,8 @@
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=wordpress&logoColor=white)<br/>
-![SQLite](https://img.shields.io/badge/sqlite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)<br/>
+![Astro.js](https://img.shields.io/badge/sqlite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white](https://img.shields.io/badge/astro-111627?style=for-the-badge&logo=astro&logoColor=white)
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xnotking&show_icons=true&bg_color=282d3b&text_color=fff&title_color=fff&border_color=none&locale=en&layout=compact" loading="lazy" alt="xnotkingdev_">
 <hr/>
